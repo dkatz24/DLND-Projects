@@ -1,6 +1,6 @@
-# DLND-Projects
+# Deep Learning // AI Projects
 
-Completed projects from Udacity's Deep Learning & Artificial Intelligence NanoDegrees 
+My completed projects from Udacity's Deep Learning & Artificial Intelligence NanoDegree Programs
 
 Course Detail & Syllabi:
 

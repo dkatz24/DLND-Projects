@@ -1,6 +1,6 @@
-# Deep Learning // AI Projects
+# Deep Learning // Classical AI Projects
 
-My completed projects from Udacity's Deep Learning & Artificial Intelligence NanoDegree Programs
+Select projects from Udacity's Deep Learning & Artificial Intelligence NanoDegree Programs
 
 Course Detail & Syllabi:
 
